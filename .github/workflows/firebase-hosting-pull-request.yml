@@ -15,4 +15,3 @@ jobs:
           repoToken: '${{ secrets.GITHUB_TOKEN }}'
           firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT_CAMANDTOBY_6B17F }}'
           projectId: camandtoby-6b17f
-          CI: ""
